@@ -1,0 +1,5 @@
+2026-10-24 11:00:00 [INFO] Application started on port 8080
+2026-10-24 11:05:00 [INFO] Database connection established
+2026-10-24 11:10:00 [WARN] High memory usage detected: 82%
+2026-10-24 11:15:00 [ERROR] Failed to connect to payment gateway: Connection timed out
+2026-10-24 11:20:00 [INFO] Retry connection successful

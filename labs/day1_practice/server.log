@@ -1,0 +1,4 @@
+2026-10-24 12:00:00 [INFO] Server started successfully
+2026-10-24 12:01:00 [WARNING] High CPU usage detected
+2026-10-24 12:02:00 [ERROR] Database connection failed
+2026-10-24 12:03:00 [INFO] Retry attempt 1 successful
